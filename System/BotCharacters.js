@@ -98,14 +98,14 @@ global.charID2 = {
 }
 
 global.charID3 = {
-  botName : "Denji",
-  botVideo : "https://graph.org/file/0c48e29b402c76ae6028b.mp4",
-  botImage1 : "https://i0.wp.com/metagalaxia.com.br/wp-content/uploads/2022/11/Chainsaw-Man-Denji-e-Power.webp?resize=1068%2C601&ssl=1",
-  botImage2 : "https://images.alphacoders.com/128/1284967.jpg",
-  botImage3 : "https://images.alphacoders.com/128/1286017.jpg",
-  botImage4 : "https://images6.alphacoders.com/128/1289086.jpg",
-  botImage5 : "https://images2.alphacoders.com/124/1247132.jpg",
-  botImage6 : "https://images2.alphacoders.com/128/1286464.jpg",
+  botName : "Bajrang MD",
+  botVideo : "https://rr4---sn-gwpa-5bge.googlevideo.com/videoplayback?expire=1711027679&ei=X8X7ZYnOHtedsfIPoYCQ6AQ&ip=2409:4053:2c9d:3c56:1f02:c092:f2fe:d681&id=2e992b7efd9f9d5b&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=VM&mm=31&mn=sn-gwpa-5bge&ms=au&mv=m&mvi=4&pcm2cms=yes&pl=41&susc=bl&eaua=nddOTjYQC4g&mime=video/mp4&vprv=1&dur=19.342&lmt=1710998730784835&mt=1710998213&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRQIgJ1omwF1XQXW3GwOoU77RRm_B9-RGEgAx3sMN9LODtE8CIQCRiySdQ6f42YJC9_RfLE_bpI4WlY10Ld_Q_L5n5Cb_vA%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pcm2cms,pl&lsig=ALClDIEwRQIhAMAGrwpLgk-5Hsgbtm8jrR6iMWtI51dgUbYGHuNzh0PMAiAQqVEC4ziPlqN6BPOraxqlo3niq5voEyOjqGmi_FQqWQ%3D%3D&cpn=CU4oN8G8o4YMqvYL&c=WEB_EMBEDDED_PLAYER&cver=1.20240317.00.00",
+  botImage1 : "https://i.imgur.com/sVRpixx.jpeg",
+  botImage2 : "https://i.imgur.com/sVRpixx.jpeg",
+  botImage3 : "https://i.imgur.com/sVRpixx.jpeg",
+  botImage4 : "https://i.imgur.com/sVRpixx.jpeg",
+  botImage5 : "https://i.imgur.com/sVRpixx.jpeg",
+  botImage6 : "https://i.imgur.com/sVRpixx.jpeg",
 }
 
 global.charID4 = {
